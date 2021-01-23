@@ -1,6 +1,6 @@
 # kodlama.io-tasks
 
-# MyDictionaryDemo
+# My Dictionary
 
 i wrote my own Dictionary class
 
