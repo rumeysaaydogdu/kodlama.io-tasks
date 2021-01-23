@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.exe
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.deps.json
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.runtimeconfig.json
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.dll
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\bin\Debug\netcoreapp3.1\MyDictionaryDemo.pdb
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.dll
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.pdb
+C:\Users\DELL\source\repos\MyDictionaryDemo\MyDictionaryDemo\obj\Debug\netcoreapp3.1\MyDictionaryDemo.genruntimeconfig.cache
