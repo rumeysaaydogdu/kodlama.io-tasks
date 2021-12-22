@@ -19,3 +19,10 @@ Query showing the total money earned from each product sale
 I simulated a game sale project.
 
 ![ss1](https://user-images.githubusercontent.com/71151015/147008225-60190b71-e0f8-4419-8734-b1821f8d5ed9.PNG)
+
+# Rent A Car Project - v2 (day 8)
+
+![bb1](https://user-images.githubusercontent.com/71151015/147150697-aad48ef5-db40-460f-99bd-75973582eb47.PNG)
+
+![aa1](https://user-images.githubusercontent.com/71151015/147150703-dba74d3e-75c7-4a4c-b8fa-2591513f2d24.PNG)
+
